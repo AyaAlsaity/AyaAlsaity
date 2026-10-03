@@ -1,5 +1,5 @@
 # 👩‍💻 AYA ALSAITY
-### **Core Mobile Apps Engineer | Mobile Technical Lead | Mobile Architect**
+### **Head of Mobile Engineering | Mobile Technical Lead | Mobile Architect**
 
 <p align="left">
   <a href="https://linkedin.com/in/ayaalsaiy"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
