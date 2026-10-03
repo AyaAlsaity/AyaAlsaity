@@ -18,7 +18,7 @@ Lead Mobile Engineer specializing in architecting **scalable and production-grad
 ---
 
 ## 💼 Professional Highlights (🔗[sarab.tech](https://www.linkedin.com/company/sarabtech/posts/?feedView=all))
-**Lead Mobile Engineer | Feb 2024 – Present**
+**Head of Mobile Engineering**
 * **Architecting Banking Systems:** Leading the design of public banking apps using complex financial system modules.
 * **Production Ownership:** Managed full App Store & Google Play publishing lifecycles, resolving complex compliance issues.
 * **Leadership:** Conducting technical interviews, mentoring interns.
